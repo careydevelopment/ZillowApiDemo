@@ -1,6 +1,8 @@
 # zillowdemo
 A demo showing integration with the Zillow API
 
+Be sure to add your own ZWS ID in the ZillowApiHelper class!
+
 Just pull this project down in Eclipse, then build it. Once it's built, you can run it from the command line with:
 java -jar zillowdemo.jar
 
